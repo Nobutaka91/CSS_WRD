@@ -1,5 +1,27 @@
-@media (min-width: 600px) and (max-width: 800px) {
-    body {
-        background: skyblue;
-    }
+/* common */
+/* small screen */
+body {
+    margin: 0;
+}
+
+.image {
+    background: pink;
+    height: 100px;
+}
+
+.text {
+    background: gray;
+    height: 100px;
+}
+
+
+/* medium screen */
+@media (min-width: 600px) {
+    
+}
+
+
+/* large screen */
+@media (min-width: 800px) {
+
 }
